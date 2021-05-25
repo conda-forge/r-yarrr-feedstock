@@ -3,7 +3,7 @@ About r-yarrr
 
 Home: www.thepiratesguidetor.com
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-yarrr-feedstock/blob/master/LICENSE.txt)
 
@@ -116,11 +116,5 @@ Feedstock Maintainers
 =====================
 
 * [@apcamargo](https://github.com/apcamargo/)
-* [@bgruening](https://github.com/bgruening/)
-* [@cbrueffer](https://github.com/cbrueffer/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@daler](https://github.com/daler/)
-* [@dbast](https://github.com/dbast/)
-* [@jdblischak](https://github.com/jdblischak/)
-* [@johanneskoester](https://github.com/johanneskoester/)
 
