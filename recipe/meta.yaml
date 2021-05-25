@@ -7,7 +7,6 @@ package:
   version: {{ version|replace("-", "_") }}
 
 source:
-  fn: yarrr_{{ version }}.tar.gz
   url:
     - {{ cran_mirror }}/src/contrib/yarrr_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/yarrr/yarrr_{{ version }}.tar.gz
@@ -41,7 +40,7 @@ test:
 
 about:
   home: www.thepiratesguidetor.com
-  license: GPL-2
+  license: GPL-2.0-only
   summary: 'Contains a mixture of functions and data sets referred to in the introductory e-book
     "YaRrr!: The Pirate''s Guide to R". The latest version of the e-book is available
     for free at <https://www.thepiratesguidetor.com>.'
@@ -51,10 +50,4 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer
-    - dbast
     - apcamargo
