@@ -1,11 +1,11 @@
-About r-yarrr
-=============
+About r-yarrr-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-yarrr-feedstock/blob/main/LICENSE.txt)
 
 Home: www.thepiratesguidetor.com
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-yarrr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Contains a mixture of functions and data sets referred to in the introductory e-book "YaRrr!: The Pirate's Guide to R". The latest version of the e-book is available for free at <https://www.thepiratesguidetor.com>.
 
